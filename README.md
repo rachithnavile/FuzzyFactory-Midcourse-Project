@@ -1,1 +1,1 @@
-# FuzzyFactory-Midcourse-Project
+# MovieStoreAnalysis-Midcourse-Project
